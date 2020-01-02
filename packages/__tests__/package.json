@@ -62,10 +62,10 @@
   },
   "devDependencies": {
     "@types/jsdom": "^12.2.4",
-    "@types/karma": "^3.0.4",
+    "@types/karma": "^3.0.5",
     "@types/mocha": "^5.2.7",
     "@types/node": "^12.12.21",
-    "@types/webpack": "^4.41.0",
+    "@types/webpack": "^4.41.1",
     "@types/webpack-env": "^1.14.1",
     "@types/vinyl": "^2.0.4",
     "chalk": "^3.0.0",
@@ -94,15 +94,15 @@
     "mocha": "~6.1.4",
     "source-map": "^0.7.3",
     "source-map-loader": "^0.2.4",
-    "style-loader": "^1.1.1",
+    "style-loader": "^1.1.2",
     "ts-loader": "^6.2.1",
     "ts-node": "^8.5.4",
     "tsconfig-paths": "^3.9.0",
     "tslib": "^1.10.0",
     "typescript": "^3.7.4",
     "vinyl": "^2.2.0",
-    "webpack": "^4.41.4",
-    "yargs": "^15.0.2"
+    "webpack": "^4.41.5",
+    "yargs": "^15.1.0"
   },
   "version": "0.6.0"
 }
